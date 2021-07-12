@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\mthws\Desktop\Aulas EAD\PROGRAMAÇÃO ORIENTADA A OBJETO\avaliação 1_parte 2\.metadata\.plugins\org.eclipse.jdt.core
+1650449417.index
+3835748512.index
